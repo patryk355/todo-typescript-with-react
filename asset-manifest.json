@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/patryk355/todo-typescript-with-react/static/css/main.50e09ce8.css",
+    "main.js": "/patryk355/todo-typescript-with-react/static/js/main.6aeeeb7d.js",
+    "index.html": "/patryk355/todo-typescript-with-react/index.html",
+    "main.50e09ce8.css.map": "/patryk355/todo-typescript-with-react/static/css/main.50e09ce8.css.map",
+    "main.6aeeeb7d.js.map": "/patryk355/todo-typescript-with-react/static/js/main.6aeeeb7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50e09ce8.css",
+    "static/js/main.6aeeeb7d.js"
+  ]
+}
